@@ -2,7 +2,7 @@
 
 [course](https://frontendmasters.com/courses/algorithms)
 
-These data structures are only for educational purpose.
+These data structures and algorithms are for educational purpose only.
 
 Rules:
 

@@ -1,7 +1,6 @@
 type QNode<T> = {
 	value: T,
 	next?: QNode<T>
-	prev?: QNode<T>
 }
 
 export class Queue<T> {
