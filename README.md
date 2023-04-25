@@ -1,6 +1,6 @@
-# alogrithms-course
+# Algorithms and Data Structures
 
-[course](https://frontendmasters.com/courses/algorithms)
+[link to the course](https://frontendmasters.com/courses/algorithms)
 
 These data structures and algorithms are for educational purpose only.
 
