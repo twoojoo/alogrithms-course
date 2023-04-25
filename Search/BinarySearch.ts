@@ -1,4 +1,4 @@
-/** O(log n) */
+/** O(log n) - requires an ordered array */
 export function binary_search(array: number[], value: number): number {
 
 	let lo = 0
