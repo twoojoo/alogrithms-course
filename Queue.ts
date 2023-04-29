@@ -4,7 +4,7 @@ type QNode<T> = {
 }
 
 export class Queue<T> {
-	private length: number  
+	length: number  
 	private head?: QNode<T>
 	private tail?: QNode<T>
 
